@@ -5,4 +5,4 @@
 - My research is about MLOps and time series models
 - Falling in love with NixOS ❤️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrmendes&exclude_repo=econometria_1,econometria_2,phrmendes.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phrmendes&exclude_repo=econometria_1,econometria_2,phrmendes.github.io&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
