@@ -11,14 +11,14 @@ draft: false
 <!-- # Pedro Mendes -->
 
 <!-- <i class="fas fa-envelope"></i> phrmendes@tuta.io   -->
-<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/    -->
+<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/   -->
 <!-- <i class="fab fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/) -->
 
 # <i class="fas fa-user"></i> About Me 
 
 I have two year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 13th period in Sciences and Humanities and the 8th period in the Economics' bachelor's degree programs. Now I work as DevOps at NTT DATA. My interests are time-series econometrics, machine learning, Linux systems, and programming in R, Python and Shell Script.
 
-# <i class="fas fa-toolbox"></i> Skills
+# <i class="fas fa-hammer"></i> Skills
 
 - <i class="fab fa-r-project"></i> R - Advanced
 - <i class="fab fa-git"></i> Git - Intermediate
@@ -57,7 +57,7 @@ I have two year's experience in the IT market, working as technical support for 
   - São Caetano do Sul, SP
   - 2015 - 2016
 
-# Research 
+# <i class="fas fa-book"></i> Research 
 
 ## Scientific Initiation Program (PIC-UFABC)
 
@@ -67,7 +67,7 @@ I have two year's experience in the IT market, working as technical support for 
 
 > I researched Brazil's Central-West region exports, as well as the 2000s commodity cycle and its relationship with the region's agro-industrial complex. To do this, I used data from Comex Stats and did analysis in R.
 
-# Work Expericence
+# <i class="fas fa-briefcase"></i> Work Expericence
 
 ## DevOps / Site Reliability Engineer
 
@@ -76,6 +76,7 @@ I have two year's experience in the IT market, working as technical support for 
 - 2022 - Now
 
 > Managing CI/CD pipelines with Azure DevOps environment, monitoring microservices performance with ArgoCD and New Relic, creating automations with Infrastructure as Code tools (Terraform, Ansible, Helm).
+
 ## Economic analyst
 
 - Abramge
@@ -100,7 +101,7 @@ I have two year's experience in the IT market, working as technical support for 
 
 > Assisting employees, opening calls, installing programs, releasing access, administrative routines etc.
 
-# Language Proficiency
+# <i class="fas fa-language"></i> Language Proficiency
 
 | Language   | Level                            |
 | :--------: | :------------------------------: |
