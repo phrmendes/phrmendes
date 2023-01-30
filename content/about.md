@@ -10,8 +10,8 @@ draft: false
 
 <!-- # Pedro Mendes -->
 
-<!-- <i class="fas fa-envelope"></i> phrmendes@tuta.io   -->
-<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/   -->
+<!-- <i class="fas fa-envelope"></i> pedrohrmendes@proton.me -->  
+<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/ -->  
 <!-- <i class="fab fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/) -->
 
 # <i class="fas fa-user"></i> About Me 

@@ -23,7 +23,7 @@ math = false
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
-    url = "mailto:phrmendes@tuta.io"
+    url = "mailto:pedrohrmendes@proton.me"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"
