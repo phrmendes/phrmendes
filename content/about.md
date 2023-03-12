@@ -10,25 +10,24 @@ draft: false
 
 <!-- # Pedro Mendes -->
 
-<!-- <i class="fas fa-envelope"></i> pedrohrmendes@proton.me -->  
-<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/ -->  
+<!-- <i class="fas fa-envelope"></i> pedrohrmendes@proton.me   -->
+<!-- <i class="fab fa-github"></i> https://github.com/phrmendes/   -->
 <!-- <i class="fab fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/) -->
 
 # <i class="fas fa-user"></i> About Me 
 
-I have two year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 13th period in Sciences and Humanities and the 8th period in the Economics' bachelor's degree programs. Now I work as DevOps at NTT DATA. My interests are time-series econometrics, machine learning, Linux systems, and programming in R, Python and Shell Script.
+I have three year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 13th period in Sciences and Humanities and the 8th period in the Economics' bachelor's degree programs. Now I work as DevOps at NTT DATA. My interests are time-series econometrics, machine learning, Linux systems, and programming in R, Python and Shell Script.
 
 # <i class="fas fa-hammer"></i> Skills
 
 - <i class="fab fa-r-project"></i> R - Advanced
 - <i class="fab fa-git"></i> Git - Intermediate
 - <i class="fab fa-github"></i> Github - Intermediate
-- <i class="fab fa-docker"></i> Docker - Intermediate
+- <i class="fab fa-docker"></i>/<i class="devicon-podman-plain"></i> Docker/Podman - Intermediate
 - <i class="fab fa-python"></i> Python - Intermediate
-- <i class="fas fa-terminal"></i> Shell Script - Intermediate
+- <i class="devicon-bash-plain"></i> Shell Script - Intermediate
 - <i class="devicon-terraform-plain"></i> Terraform - Intermediate 
 - <i class="devicon-googlecloud-plain"></i> Google Compute Engine - Intermediate
-- <i class="fab fa-microsoft"></i> Office - Intermediate
 - <i class="fas fa-database"></i> SQL - Intermediate
 - <i class="fab fa-linux"></i> Linux - Intermediate
 - <i class="devicon-nixos-plain"></i> NixOS - Intermediate
@@ -40,6 +39,7 @@ I have two year's experience in the IT market, working as technical support for 
 - <i class="devicon-mongodb-plain"></i> MongoDB - Beginner
 - <i class="devicon-prometheus-original"></i> Prometheus - Beginner
 - <i class="devicon-argocd-plain"></i> ArgoCD - Beginner
+- <i class="devicon-apache-plain"></i> Apache Spark - Beginner
 
 # <i class="fas fa-graduation-cap"></i> Education 
 
@@ -75,7 +75,7 @@ I have two year's experience in the IT market, working as technical support for 
 - São Paulo, SP
 - 2022 - Now
 
-> Managing CI/CD pipelines with Azure DevOps environment, monitoring microservices performance with ArgoCD and New Relic, creating automations with Infrastructure as Code tools (Terraform, Ansible, Helm).
+> Managing CI/CD pipelines with Azure DevOps environment, monitoring microservices performance with ArgoCD and New Relic, creating automations with Infrastructure as Code tools (Terraform, Ansible, Helm) and Python.
 
 ## Economic analyst
 
