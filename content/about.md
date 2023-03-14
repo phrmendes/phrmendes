@@ -16,15 +16,16 @@ draft: false
 
 # <i class="fas fa-user"></i> About Me 
 
-I have three year's experience in the IT market, working as technical support for operating systems while doing basic administrative tasks; and four months' experience as an economic analyst, also working with data science. I was a research assistant at UFABC's scientific initiation program, currently enrolled in the 13th period in Sciences and Humanities and the 8th period in the Economics' bachelor's degree programs. Now I work as DevOps at NTT DATA. My interests are time-series econometrics, machine learning, Linux systems, and programming in R, Python and Shell Script.
+I have four years' experience in the IT market and one years' experience as an economic analyst, also working with with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics bachelor's programme. I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems and programming in R, Python and Shell Script.
 
 # <i class="fas fa-hammer"></i> Skills
 
-- <i class="fab fa-r-project"></i> R - Advanced
-- <i class="fab fa-git"></i> Git - Intermediate
-- <i class="fab fa-github"></i> Github - Intermediate
-- <i class="fab fa-docker"></i>/<i class="devicon-podman-plain"></i> Docker/Podman - Intermediate
+- <i class="fab fa-r-project"></i> R - Advanced  
+  - Frameworks/libraries: Tidyverse, Tidymodels, data.table, Shiny, SparkR , caret
 - <i class="fab fa-python"></i> Python - Intermediate
+  - Frameworks/libraries: NumPy, SciPy, pandas, Polars, scikit-learn, TensorFlow, PyTorch, statsmodels, Keras, Flask, FastAPI
+- <i class="fab fa-git"></i> Git - Intermediate
+- <i class="fab fa-docker"></i> <i class="devicon-podman-plain"></i> Docker/Podman - Intermediate
 - <i class="devicon-bash-plain"></i> Shell Script - Intermediate
 - <i class="devicon-terraform-plain"></i> Terraform - Intermediate 
 - <i class="devicon-googlecloud-plain"></i> Google Compute Engine - Intermediate
@@ -40,6 +41,7 @@ I have three year's experience in the IT market, working as technical support fo
 - <i class="devicon-prometheus-original"></i> Prometheus - Beginner
 - <i class="devicon-argocd-plain"></i> ArgoCD - Beginner
 - <i class="devicon-apache-plain"></i> Apache Spark - Beginner
+- <i class="devicon-apache-plain"></i> Apache Airflow - Beginner
 
 # <i class="fas fa-graduation-cap"></i> Education 
 
@@ -65,7 +67,7 @@ I have three year's experience in the IT market, working as technical support fo
 - São Bernardo do Campo, SP
 - 2020 - 2021
 
-> I researched Brazil's Central-West region exports, as well as the 2000s commodity cycle and its relationship with the region's agro-industrial complex. To do this, I used data from Comex Stats and did analysis in R.
+> I researched exports from the Midwest region of Brazil, as well as the commodity cycle of the 2000s and its relationship to the region's agro-industrial complex. I used data from Comex Stats and carried out analyses using tools such as R and Google BigQuery. I relied on exploratory data analysis and visualisation to draw conclusions about the period analysed.
 
 # <i class="fas fa-briefcase"></i> Work Expericence
 
@@ -75,7 +77,7 @@ I have three year's experience in the IT market, working as technical support fo
 - São Paulo, SP
 - 2022 - Now
 
-> Managing CI/CD pipelines with Azure DevOps environment, monitoring microservices performance with ArgoCD and New Relic, creating automations with Infrastructure as Code tools (Terraform, Ansible, Helm) and Python.
+> I manage CI/CD pipelines with Azure DevOps and monitor the performance of microservices with ArgoCD and New Relic. I am also responsible for building automation tools using Infrastructure as Code (Terraform, Terragrunt, Ansible and Helm) and Python.
 
 ## Economic analyst
 
@@ -83,7 +85,7 @@ I have three year's experience in the IT market, working as technical support fo
 - São Paulo, SP
 - 2022 - 2022
 
-> Data processing and package creation in R, creation and maintenance of SQL databases, analysis and interpretation of public data from the private health sector, creation of reports and dashboards using the Shiny package, and creation of statistical models.
+> My main activity was related to data extraction about the private healthcare sector in Brazil. To do this, I created ETL pipelines using R to process a large amount of data, used exploratory data analysis and visualization to produce reports on the sector and dashboards for public use, and managed data storage in PostgreeSQL and serverless databases such as SQLite and Apache Arrow. I was also responsible for forecasting relevant variables using time series econometric tools (mainly VAR-related models).
 
 ## Economics internship
 
@@ -91,15 +93,7 @@ I have three year's experience in the IT market, working as technical support fo
 - São Paulo, SP
 - 2021 - 2022
 
-> Data processing and package creation in R, creation and maintenance of SQL databases, analysis and interpretation of public data from the private health sector, creation of reports and dashboards using the Shiny package, and creation of statistical models.
-
-## Service Desk assistant
-
-- Atento Brasil
-- São Paulo, SP
-- 2017 - 2018
-
-> Assisting employees, opening calls, installing programs, releasing access, administrative routines etc.
+> My internship involved extracting data about the private healthcare sector in Brazil. To do this, I created ETL pipelines using R to process a large amount of data, used exploratory data analysis and visualization to produce reports on the sector and dashboards for public use, and managed data storage in PostgreeSQL and serverless databases such as SQLite and Apache Arrow. I was also responsible for forecasting relevant variables using time series econometric tools (mainly VAR-related models).
 
 # <i class="fas fa-language"></i> Language Proficiency
 
