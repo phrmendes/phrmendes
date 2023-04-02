@@ -35,7 +35,6 @@ I have four years' experience in the IT market and one years' experience as an e
 - <i class="devicon-azure-plain"></i> Azure DevOps - Intermediate
 - <i class="devicon-ansible-plain"></i> Ansible - Beginner
 - <i class="devicon-kubernetes-plain"></i> Kubernetes - Beginner
-- <i class="devicon-go-original-wordmark"></i> Go - Beginner
 - <i class="devicon-julia-plain"></i> Julia - Beginner
 - <i class="devicon-mongodb-plain"></i> MongoDB - Beginner
 - <i class="devicon-prometheus-original"></i> Prometheus - Beginner
