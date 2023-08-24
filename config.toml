@@ -5,42 +5,42 @@ enableEmoji = true
 math = false
 
 [params]
-  author = "Pedro Mendes"
-  description = "My CV"
-  favicon = "term-16.png"
-  logo = "term-32.png"
-  [params.style]
-    fontFamily = "Inconsolata"
-    fontSize = "14pt"
-    pageWidth = "750px"
-    avatarSize = "90px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
-  [[params.socialIcons]]
-    icon = "fab fa-github"
-    title = "Github"
-    url = "https://github.com/phrmendes/"
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "E-mail"
-    url = "mailto:pedrohrmendes@proton.me"
-  [[params.socialIcons]]
-    icon = "fab fa-linkedin"
-    title = "LinkedIn"
-    url = "https://www.linkedin.com/in/pedro-mendes-b9983b13a/"
+author = "Pedro Mendes"
+description = "My CV"
+favicon = "term-16.png"
+logo = "term-32.png"
+[params.style]
+fontFamily = "Inconsolata"
+fontSize = "14pt"
+pageWidth = "750px"
+avatarSize = "90px"
+colorBlack = "#222222"
+colorRed = "#dc3545"
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/phrmendes/"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "E-mail"
+url = "mailto:pedrohrmendes@proton.me"
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/pedro-mendes-b9983b13a/"
 
 [permalinks]
-  "/" = "/:filename"
+"/" = "/:filename"
 
 [menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
-  [[menu.main]]
-    name = "Resume"
-    url = "/cv.pdf"
-    weight = 2
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+[[menu.main]]
+name = "Resume"
+url = "/cv.pdf"
+weight = 2
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true

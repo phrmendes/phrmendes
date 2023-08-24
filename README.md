@@ -1,6 +1,6 @@
 # Hello 👋
 
-- Interested in statistics, R, Python, Nix and machine learning
+- Interested in statistics, R, Python, machine learning and time series
 - Working as DevOps/SRE with infrastructure as code (Ansible, Terraform, Azure DevOps and Kubernetes)
 - My research is about MLOps and time series models
 
