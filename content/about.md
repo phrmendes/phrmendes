@@ -14,36 +14,35 @@ draft: false
 <!-- - <i class="fab fa-github"></i> https://github.com/phrmendes/ -->
 <!-- - <i class="fab fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/) -->
 
-# <i class="fas fa-user"></i> About Me 
+# <i class="fas fa-user"></i> About Me
 
 I have four years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with ansible and programming in R and Python.
 
 # <i class="fas fa-hammer"></i> Skills
 
-- <i class="fab fa-r-project"></i> R – Advanced  
-  - Libraries: Tidyverse, Tidymodels, data.table, Shiny, SparkR, caret
-- <i class="fab fa-python"></i> Python – Intermediate
+- <i class="fab fa-r-project"></i> R - Advanced
+  - Libraries: Tidyverse, Tidymodels, data.table, Shiny, SparkR
+- <i class="fab fa-python"></i> Python - Intermediate
   - Libraries: NumPy, SciPy, pandas, scikit-learn, TensorFlow, PyTorch, statsmodels, Keras, SQLAlchemy
   - Frameworks: Flask, FastAPI
-- <i class="devicon-ansible-plain"></i> Ansible – Intermediate
-- <i class="devicon-azure-plain"></i> Azure DevOps – Intermediate
-- <i class="devicon-bash-plain"></i> Shell Script – Intermediate
-- <i class="devicon-googlecloud-plain"></i> Google Compute Engine – Intermediate
-- <i class="devicon-terraform-plain"></i> Terraform – Intermediate 
-- <i class="fab fa-docker"></i> Docker – Intermediate
-- <i class="fab fa-git"></i> Git – Intermediate
-- <i class="fab fa-linux"></i> Linux – Intermediate
-- <i class="fas fa-database"></i> SQL (MariaDB, PosgreeSQL, SQLite) – Intermediate
-- <i class="devicon-apache-plain"></i> Apache Airflow – Beginner
-- <i class="devicon-apache-plain"></i> Apache Spark – Beginner
-- <i class="devicon-argocd-plain"></i> ArgoCD – Beginner
-- <i class="devicon-julia-plain"></i> Julia – Beginner
-- <i class="devicon-kubernetes-plain"></i> Kubernetes – Beginner
-- <i class="devicon-mongodb-plain"></i> MongoDB – Beginner
-- <i class="devicon-prometheus-original"></i> Prometheus – Beginner
-- <i class="devicon-scala-plain"></i> Scala – Beginner
+- <i class="devicon-ansible-plain"></i> Ansible - Intermediate
+- <i class="devicon-apache-plain"></i> Apache Spark - Intermediate
+- <i class="devicon-azure-plain"></i> Azure - Intermediate
+- <i class="devicon-bash-plain"></i> Shell Script - Intermediate
+- <i class="devicon-terraform-plain"></i> Terraform - Intermediate
+- <i class="fab fa-docker"></i> Docker - Intermediate
+- <i class="fab fa-git"></i> Git - Intermediate
+- <i class="fab fa-linux"></i> Linux - Intermediate
+- <i class="fas fa-database"></i> SQL and databases (MariaDB, PosgreeSQL) - Intermediate
+- <i class="devicon-amazonwebservices-original"></i> AWS - Beginner
+- <i class="devicon-apache-plain"></i> Apache Airflow - Beginner
+- <i class="devicon-argocd-plain"></i> ArgoCD - Beginner
+- <i class="devicon-googlecloud-plain"></i> Google Compute Engine - Beginner
+- <i class="devicon-kubernetes-plain"></i> Kubernetes - Beginner
+- <i class="devicon-mongodb-plain"></i> MongoDB - Beginner
+- <i class="devicon-prometheus-original"></i> Prometheus - Beginner
 
-# <i class="fas fa-graduation-cap"></i> Education 
+# <i class="fas fa-graduation-cap"></i> Education
 
 ## Federal University of ABC
 
@@ -62,9 +61,9 @@ I have four years' experience in the IT market and one years' experience as an e
 **Information Security (Unfinished)**
 
 - São Caetano do Sul, SP
-- 2015 – 2016
+- 2015 – 2017
 
-# <i class="fas fa-book"></i> Research 
+# <i class="fas fa-book"></i> Research
 
 ## Scientific Initiation Program (PIC-UFABC)
 
@@ -102,8 +101,8 @@ I have four years' experience in the IT market and one years' experience as an e
 
 # <i class="fas fa-language"></i> Language Proficiency
 
-| Language   | Level                            |
+|  Language  |              Level               |
 | :--------: | :------------------------------: |
-| Portuguese | Native                           |
-| English    | Professional working proficiency |
-| Spanish    | Professional working proficiency |
+| Portuguese |              Native              |
+|  English   | Professional working proficiency |
+|  Spanish   | Professional working proficiency |
