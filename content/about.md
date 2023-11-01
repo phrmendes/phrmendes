@@ -8,8 +8,8 @@ draft: false
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<!-- # Pedro Mendes -->
-<!---->
+# Pedro Mendes
+
 <!-- - <i class="fas fa-envelope"></i> pedrohrmendes@proton.me -->
 <!-- - <i class="fab fa-github"></i> https://github.com/phrmendes/ -->
 <!-- - <i class="fab fa-linkedin"></i> [Pedro Mendes](https://www.linkedin.com/in/pedro-mendes-b9983b13a/) -->
