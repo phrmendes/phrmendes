@@ -16,7 +16,7 @@ draft: false
 
 # <i class="fas fa-user"></i> About Me
 
-I have four years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with ansible and programming in R and Python.
+I have two years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with ansible and programming in R and Python.
 
 # <i class="fas fa-hammer"></i> Skills
 
