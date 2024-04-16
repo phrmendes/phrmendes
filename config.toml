@@ -6,7 +6,7 @@ math = false
 
 [params]
 author = "Pedro Mendes"
-description = "My CV"
+description = "My resume"
 favicon = "term-16.png"
 logo = "term-32.png"
 [params.style]
@@ -34,13 +34,8 @@ url = "https://www.linkedin.com/in/pedro-mendes-b9983b13a/"
 
 [menu]
 [[menu.main]]
-name = "About"
-url = "/about"
-weight = 1
-[[menu.main]]
-name = "Resume"
-url = "/cv.pdf"
-weight = 2
+name = "resume.pdf"
+url = "/resume.pdf"
 
 [markup.goldmark.renderer]
 unsafe = true
