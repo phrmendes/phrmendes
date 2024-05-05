@@ -1,7 +1,7 @@
 # Hello 👋
 
-- Interested in statistics, machine learning and time series econometrics
-- Working as DevOps/SRE with infrastructure as code (Ansible, Terraform, Azure DevOps) and Kubernetes.
+- Interested in Python, Go, statistics and machine learning
+- Working as DevOps/SRE engineer with infrastructure as code and Kubernetes
 
 |                                                                                                               Top Langs                                                                                                                |                                                             Stats                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
