@@ -5,45 +5,40 @@ draft: false
 math: true
 ---
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Pedro Mendes
 
-- [GitHub](https://github.com/phrmendes)
-- [LinkedIn](https://www.linkedin.com/in/pedrohrmendes)
-- [E-mail](mailto:phrmendes@duck.com)
+|                                                |                                             |
+| ---------------------------------------------- | ------------------------------------------- |
+| <i class="devicon-github-original"></i>        | <https://github.com/phrmendes>              |
+| <i class="devicon-linkedin-plain colored"></i> | <https://www.linkedin.com/in/pedrohrmendes> |
+| 📧                                             | <phrmendes@duck.com>                        |
 
 ## 👤 About Me
 
-I have three years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with ansible and programming in Python and Go.
+I have three years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with Ansible and programming in Python and Go.
 
 ## 🛠️ Skills
 
-- <i class="devicon-python-plain"></i> Python:
-  - <i class="devicon-pandas-plain"></i> Pandas: Advanced
-  - <i class="devicon-scikitlearn-plain"></i> Scikit-learn: Advanced
-  - <i class="devicon-fastapi-plain"></i> FastAPI: Intermediate
-  - <i class="devicon-keras-plain"></i> Keras: Intermediate
-  - <i class="devicon-tensorflow-original"></i> TensorFlow: Intermediate
-- <i class="devicon-sqldeveloper-plain"></i> Databases:
-  - <i class="devicon-mysql-plain"></i> MySQL: Intermediate
-  - <i class="devicon-postgresql-plain"></i> PostgreSQL: Intermediate
-  - <i class="devicon-mongodb-plain"></i>MongoDB: Beginner
-- <i class="devicon-azure-plain"></i> Azure:
-  - <i class="devicon-azuredevops-plain"></i> Azure DevOps: Intermediate
-  - <i class="devicon-cosmosdb-plain"></i> CosmosDB: Beginner
-- <i class="devicon-ansible-plain"></i> Ansible - Intermediate
-- <i class="devicon-apachespark-original"></i> Apache Spark - Intermediate
-- <i class="devicon-docker-plain"></i> Docker - Intermediate
-- <i class="devicon-githubactions-plain"></i> GitHub Actions - Intermediate
-- <i class="devicon-go-original-wordmark"></i> Go - Intermediate
-- <i class="devicon-terraform-plain"></i> Terraform - Intermediate
-- <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS - Beginner
-- <i class="devicon-apacheairflow-plain"></i> Apache Airflow - Beginner
-- <i class="devicon-argocd-plain"></i> ArgoCD - Beginner
-- <i class="devicon-grafana-plain"></i> Grafana - Beginner
-- <i class="devicon-kubernetes-plain"></i> Kubernetes - Beginner
-- <i class="devicon-prometheus-original"></i> Prometheus - Beginner
+| Skill                                                        |    Level     |                                                                      |
+| ------------------------------------------------------------ | :----------: | :------------------------------------------------------------------: |
+| <i class="devicon-python-plain"></i> Python                  |   Advanced   | pandas, scikit-learn, FastAPI, Keras, TensorFlow, Streamlit, pySpark |
+| <i class="devicon-r-plain"></i> R                            |   Advanced   |               Tidyverse, tidymodels, data.table, Shiny               |
+| <i class="devicon-azure-plain"></i> Azure                    | Intermediate |               CosmosDB, Azure DevOps, Azure Functions                |
+| <i class="devicon-docker-plain"></i> Docker                  | Intermediate |                                  --                                  |
+| <i class="devicon-github-plain"></i> GitHub                  | Intermediate |                            GitHub Actions                            |
+| <i class="devicon-ansible-plain"></i> Ansible                | Intermediate |                               Molecule                               |
+| <i class="devicon-go-original-wordmark"></i> Go              | Intermediate |                                  --                                  |
+| <i class="devicon-terraform-plain"></i> Terraform            | Intermediate |                                  --                                  |
+| <i class="devicon-kubernetes-plain"></i> Kubernetes          | Intermediate |                             Helm, Istio                              |
+| <i class="devicon-sqldeveloper-plain"></i> Databases         | Intermediate |                     PostgreSQL, MariaDB, MongoDB                     |
+| <i class="devicon-apachespark-original"></i> Apache Spark    | Intermediate |                              Databricks                              |
+| <i class="devicon-argocd-plain"></i> ArgoCD                  |   Beginner   |                                  --                                  |
+| <i class="devicon-grafana-plain"></i> Grafana                |   Beginner   |                                  --                                  |
+| <i class="devicon-prometheus-original"></i> Prometheus       |   Beginner   |                                  --                                  |
+| <i class="devicon-apacheairflow-plain"></i> Apache Airflow   |   Beginner   |                                  --                                  |
+| <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS |   Beginner   |                              AWS Lambda                              |
 
 ## 🎓 Education
 
@@ -76,21 +71,13 @@ I have three years' experience in the IT market and one years' experience as an 
 
 > I manage CI/CD pipelines with Azure DevOps and monitor the performance of microservices with ArgoCD and New Relic. I am also responsible for building automation tools using Infrastructure as Code (Terraform, Ansible and Helm), Python and Go.
 
-### Economic analyst
-
-- Abramge
-- São Paulo, SP
-- 2022 – 2022
-
-> My main activity was related to data extraction about the private healthcare sector in Brazil. To do this, I created ETL pipelines using R to process a broad amount of data, used exploratory data analysis to produce reports and dashboards for public use. I also managed databases using PostgreeSQL and serverless databases such as SQLite and Apache Arrow. I was also responsible for forecasting relevant variables using time series econometric tools (mainly VAR-related models).
-
-### Economics internship
+### Data analyst
 
 - Abramge
 - São Paulo, SP
 - 2021 – 2022
 
-> My internship was related to data extraction about the private healthcare sector in Brazil. To do this, I created ETL pipelines using R to process a broad amount of data, used exploratory data analysis to produce reports and dashboards for public use. I also managed databases using PostgreeSQL and serverless databases such as SQLite and Apache Arrow.
+> My main activity was related to extracting and processing data on the private health sector in Brazil. To do this, I created ETL pipelines using R and Python to process large amounts of data and used exploratory data analysis to produce reports and dashboards for public use. I also managed databases using PostgreeSQL and serverless databases such as DuckDB and Apache Arrow. I was also responsible for forecasting relevant indicators using time series econometric tools (mainly VAR-related models).
 
 ## 🔎 Research
 

@@ -8,6 +8,7 @@ enableRobotsTXT = true
 author = "Pedro Mendes"
 description = "My resume"
 favicon = "icon.png"
+hideMadeWithLine = true
 
 [markup.goldmark.renderer]
 unsafe = true
