@@ -17,28 +17,29 @@ math: true
 
 ## 👤 About Me
 
-I have three years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 11th period of the Science and Humanities programme and the 8th period of the Economics BA degree's programme. Furthermore, I currently work as a DevOps Engineer at NTT DATA. My interests are time series econometrics, machine learning, Linux systems, automations with Ansible and programming in Python and Go.
+I have four years' experience in the IT market and one years' experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 9th period of the Economics BA degree's programme. My interests are time series econometrics, machine learning, Linux systems, Python, Scala and the Nix ecossystem.
 
 ## 🛠️ Skills
 
-| Skill                                                        |    Level     |                                                                      |
-| ------------------------------------------------------------ | :----------: | :------------------------------------------------------------------: |
-| <i class="devicon-python-plain"></i> Python                  |   Advanced   | pandas, scikit-learn, FastAPI, Keras, TensorFlow, Streamlit, pySpark |
-| <i class="devicon-r-plain"></i> R                            |   Advanced   |               Tidyverse, tidymodels, data.table, Shiny               |
-| <i class="devicon-azure-plain"></i> Azure                    | Intermediate |               CosmosDB, Azure DevOps, Azure Functions                |
-| <i class="devicon-docker-plain"></i> Docker                  | Intermediate |                                  --                                  |
-| <i class="devicon-github-plain"></i> GitHub                  | Intermediate |                            GitHub Actions                            |
-| <i class="devicon-ansible-plain"></i> Ansible                | Intermediate |                               Molecule                               |
-| <i class="devicon-go-original-wordmark"></i> Go              | Intermediate |                                  --                                  |
-| <i class="devicon-terraform-plain"></i> Terraform            | Intermediate |                                  --                                  |
-| <i class="devicon-kubernetes-plain"></i> Kubernetes          | Intermediate |                             Helm, Istio                              |
-| <i class="devicon-sqldeveloper-plain"></i> Databases         | Intermediate |                     PostgreSQL, MariaDB, MongoDB                     |
-| <i class="devicon-apachespark-original"></i> Apache Spark    | Intermediate |                              Databricks                              |
-| <i class="devicon-argocd-plain"></i> ArgoCD                  |   Beginner   |                                  --                                  |
-| <i class="devicon-grafana-plain"></i> Grafana                |   Beginner   |                                  --                                  |
-| <i class="devicon-prometheus-original"></i> Prometheus       |   Beginner   |                                  --                                  |
-| <i class="devicon-apacheairflow-plain"></i> Apache Airflow   |   Beginner   |                                  --                                  |
-| <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS |   Beginner   |                              AWS Lambda                              |
+| Skill                                                        |    Level     |                                                                                    |
+| ------------------------------------------------------------ | :----------: | :--------------------------------------------------------------------------------: |
+| <i class="devicon-python-plain"></i> Python                  |   Advanced   | pandas, scikit-learn, FastAPI, Keras, TensorFlow, Streamlit, pySpark, dbt, prefect |
+| <i class="devicon-r-plain"></i> R                            |   Advanced   |                      Tidyverse, tidymodels, data.table, Shiny                      |
+| <i class="devicon-ansible-plain"></i> Ansible                | Intermediate |                                         --                                         |
+| <i class="devicon-apachespark-original"></i> Apache Spark    | Intermediate |                                     Databricks                                     |
+| <i class="devicon-azure-plain"></i> Azure                    | Intermediate |                      CosmosDB, Azure DevOps, Azure Functions                       |
+| <i class="devicon-docker-plain"></i> Docker                  | Intermediate |                                         --                                         |
+| <i class="devicon-github-plain"></i> GitHub                  | Intermediate |                                   GitHub Actions                                   |
+| <i class="devicon-kubernetes-plain"></i> Kubernetes          | Intermediate |                                    Helm, Istio                                     |
+| <i class="devicon-sqldeveloper-plain"></i> Databases         | Intermediate |                            PostgreSQL, MariaDB, MongoDB                            |
+| <i class="devicon-terraform-plain"></i> Terraform            | Intermediate |                                         --                                         |
+| <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS |   Beginner   |                                  Lambda, EC2, RDS                                  |
+| <i class="devicon-apacheairflow-plain"></i> Apache Airflow   |   Beginner   |                                         --                                         |
+| <i class="devicon-argocd-plain"></i> ArgoCD                  |   Beginner   |                                         --                                         |
+| <i class="devicon-googlecloud-plain"></i> Google Cloud       |   Beginner   |                              BigQuery, Compute Engine                              |
+| <i class="devicon-grafana-plain"></i> Grafana                |   Beginner   |                                         --                                         |
+| <i class="devicon-prometheus-original"></i> Prometheus       |   Beginner   |                                         --                                         |
+| <i class="devicon-scala-plain"></i> Scala                    |   Beginner   |                                         --                                         |
 
 ## 🎓 Education
 
@@ -63,13 +64,21 @@ I have three years' experience in the IT market and one years' experience as an 
 
 ## 💼 Work Expericence
 
+### Data Engineer
+
+- Escritório de dados - Prefeitura do Rio de Janeiro
+- Rio de Janeiro, RJ
+- 2024 - Now
+
+> I'm responsible for creating and maintaining ETL pipelines for the city's public datalake.
+
 ### DevOps / Site Reliability Engineer
 
 - NTT Data
 - São Paulo, SP
-- 2022 – Now
+- 2022 – 2024
 
-> I manage CI/CD pipelines with Azure DevOps and monitor the performance of microservices with ArgoCD and New Relic. I am also responsible for building automation tools using Infrastructure as Code (Terraform, Ansible and Helm), Python and Go.
+> I've managed CI/CD pipelines with Azure DevOps and ArgoCD, and developed microservice performance monitoring solutions with New Relic. I was also responsible for creating automation tools using Infrastructure as Code (Terraform, Ansible and Helm) and Python.
 
 ### Data analyst
 
