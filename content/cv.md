@@ -66,7 +66,7 @@ I have four years' experience in the IT market and one years' experience as an e
 
 ### Data Engineer
 
-- Escritório de dados - Prefeitura do Rio de Janeiro
+- IplanRio
 - Rio de Janeiro, RJ
 - 2024 - Now
 
