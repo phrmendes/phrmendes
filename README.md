@@ -1,7 +1,7 @@
 # Hello 👋
 
-- Interested in Python, Go, statistics and machine learning
-- Working as DevOps/SRE engineer with infrastructure as code and Kubernetes
+- Interested in Python, neovim, statistics and machine learning
+- Working as Data Engineer
 
 |                                                                                                               Top Langs                                                                                                                |                                                             Stats                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
