@@ -6,4 +6,4 @@ draft: false
 
 # Hello 👋
 
-I'm Pedro, a brazilian interested in Python, Go, statistics and data science. I'm also a big fan of New Order, Dune and old movies. I'm also obsessed with NixOS and Neovim.
+I'm Pedro, a brazilian interested in Python, statistics and data science. I'm also a big fan of New Order, Dune and old movies. Currently obsessed with NixOS and Neovim.
