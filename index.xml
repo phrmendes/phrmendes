@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on oh_long_johnson</title><link>https://phrmendes.github.io/</link><description>Recent content in Home on oh_long_johnson</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 26 Dec 2022 16:49:35 -0300</lastBuildDate><atom:link href="https://phrmendes.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Pedro Mendes</title><link>https://phrmendes.github.io/cv/</link><pubDate>Mon, 26 Dec 2022 16:49:35 -0300</pubDate><guid>https://phrmendes.github.io/cv/</guid><description>Pedro Mendes https://github.com/phrmendes https://www.linkedin.com/in/pedrohrmendes 📧 phrmendes@duck.com 👤 About Me I have four years&amp;rsquo; experience in the IT market and one years&amp;rsquo; experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation programme at UFABC, and I am currently enrolled in the 9th period of the Economics BA degree&amp;rsquo;s programme. My interests are time series econometrics, machine learning, Linux systems, Python, Scala and the Nix ecossystem.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on oh_long_johnson</title><link>https://phrmendes.github.io/</link><description>Recent content in Home on oh_long_johnson</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 26 Dec 2022 16:49:35 -0300</lastBuildDate><atom:link href="https://phrmendes.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Pedro Mendes</title><link>https://phrmendes.github.io/cv/</link><pubDate>Mon, 26 Dec 2022 16:49:35 -0300</pubDate><guid>https://phrmendes.github.io/cv/</guid><description>&lt;link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+&lt;h1 id="pedro-mendes">Pedro Mendes&lt;/h1>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>&lt;i class="devicon-github-original">&lt;/i>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/phrmendes">https://github.com/phrmendes&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;i class="devicon-linkedin-plain colored">&lt;/i>&lt;/td>
+ &lt;td>&lt;a href="https://www.linkedin.com/in/pedrohrmendes">https://www.linkedin.com/in/pedrohrmendes&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>📧&lt;/td>
+ &lt;td>&lt;a href="mailto:phrmendes@duck.com">phrmendes@duck.com&lt;/a>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="-about-me">👤 About Me&lt;/h2>
+&lt;p>I have four years&amp;rsquo; experience in the IT market and one year&amp;rsquo;s experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation program at UFABC, and I am currently enrolled in the 9th period of the Economics BA degree program. My interests are time series econometrics, machine learning, Linux systems, Python, Scala, and the Nix ecosystem.&lt;/p></description></item></channel></rss>
