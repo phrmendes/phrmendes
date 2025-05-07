@@ -17,30 +17,31 @@ math: true
 
 ## 👤 About Me
 
-I have four years' experience in the IT market and one year's experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation program at UFABC, and I am currently enrolled in the 9th period of the Economics BA degree program. My interests are time series econometrics, machine learning, Linux systems, Python, Scala, and the Nix ecosystem.
+I have four years' experience in the IT market and one year's experience as an economic analyst, also working with data science. I was also a research assistant in the scientific initiation program at UFABC, and I am currently enrolled in the 9th period of the Economics BA degree program. My interests are time series econometrics, machine learning, Python, and the Nix ecosystem.
 
 ## 🛠️ Skills
 
-| Skill                                                        | Level        |                                           Tools                                            |
-| ------------------------------------------------------------ | ------------ | :----------------------------------------------------------------------------------------: |
-| <i class="devicon-python-plain"></i> Python                  | Advanced     | pandas, scikit-learn, Django, FastAPI, Keras, TensorFlow, Streamlit, PySpark, dbt, Prefect |
-| <i class="devicon-ansible-plain"></i> Ansible                | Intermediate |                                             --                                             |
-| <i class="devicon-apachespark-original"></i> Apache Spark    | Intermediate |                                         Databricks                                         |
-| <i class="devicon-azure-plain"></i> Azure                    | Intermediate |                          CosmosDB, Azure DevOps, Azure Functions                           |
-| <i class="devicon-docker-plain"></i> Docker                  | Intermediate |                                             --                                             |
-| <i class="devicon-github-plain"></i> GitHub                  | Intermediate |                                       GitHub Actions                                       |
-| <i class="devicon-gitlab-plain"></i> GitLab                  | Intermediate |                                         GitLab CI                                          |
-| <i class="devicon-kubernetes-plain"></i> Kubernetes          | Intermediate |                                   Helm, Istio, OpenShift                                   |
-| <i class="devicon-lua-plain"></i> Lua                        | Intermediate |                                             --                                             |
-| <i class="devicon-sqldeveloper-plain"></i> Databases         | Intermediate |                                PostgreSQL, MariaDB, MongoDB                                |
-| <i class="devicon-terraform-plain"></i> Terraform            | Intermediate |                                             --                                             |
-| <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS | Beginner     |                                      Lambda, EC2, RDS                                      |
-| <i class="devicon-apacheairflow-plain"></i> Apache Airflow   | Beginner     |                                             --                                             |
-| <i class="devicon-argocd-plain"></i> Argo CD                 | Beginner     |                                             --                                             |
-| <i class="devicon-elixir-plain"></i> Elixir                  | Beginner     |                                          Phoenix                                           |
-| <i class="devicon-googlecloud-plain"></i> Google Cloud       | Beginner     |                               BigQuery, Compute Engine, GKE                                |
-| <i class="devicon-grafana-plain"></i> Grafana                | Beginner     |                                             --                                             |
-| <i class="devicon-prometheus-original"></i> Prometheus       | Beginner     |                                             --                                             |
+| Skill                                                        | Level        |                                               Tools                                                |
+| ------------------------------------------------------------ | ------------ | :------------------------------------------------------------------------------------------------: |
+| <i class="devicon-python-plain"></i> Python                  | Advanced     | pandas, scikit-learn, Django, FastAPI, Keras, TensorFlow, PyTorch Streamlit, PySpark, dbt, Prefect |
+| <i class="devicon-go-original-wordmark"></i> Go              | Intermediate |                                                 --                                                 |
+| <i class="devicon-lua-plain"></i> Lua                        | Intermediate |                                                 --                                                 |
+| <i class="devicon-ansible-plain"></i> Ansible                | Intermediate |                                                 --                                                 |
+| <i class="devicon-terraform-plain"></i> Terraform            | Intermediate |                                                 --                                                 |
+| <i class="devicon-apachespark-original"></i> Apache Spark    | Intermediate |                                             Databricks                                             |
+| <i class="devicon-docker-plain"></i> Docker                  | Intermediate |                                                 --                                                 |
+| <i class="devicon-kubernetes-plain"></i> Kubernetes          | Intermediate |                                       Helm, Istio, OpenShift                                       |
+| <i class="devicon-github-plain"></i> GitHub                  | Intermediate |                                           GitHub Actions                                           |
+| <i class="devicon-gitlab-plain"></i> GitLab                  | Intermediate |                                             GitLab CI                                              |
+| <i class="devicon-sqldeveloper-plain"></i> Databases         | Intermediate |                                    PostgreSQL, MariaDB, MongoDB                                    |
+| <i class="devicon-googlecloud-plain"></i> Google Cloud       | Intermediate |                                   BigQuery, Compute Engine, GKE                                    |
+| <i class="devicon-azure-plain"></i> Azure                    | Intermediate |                              CosmosDB, Azure DevOps, Azure Functions                               |
+| <i class="devicon-amazonwebservices-plain-wordmark"></i> AWS | Beginner     |                                          Lambda, EC2, RDS                                          |
+| <i class="devicon-apacheairflow-plain"></i> Apache Airflow   | Beginner     |                                                 --                                                 |
+| <i class="devicon-argocd-plain"></i> Argo CD                 | Beginner     |                                                 --                                                 |
+| <i class="devicon-grafana-plain"></i> Grafana                | Beginner     |                                                 --                                                 |
+| <i class="devicon-prometheus-original"></i> Prometheus       | Beginner     |                                                 --                                                 |
+| <i class="devicon-opentelemetry-plain"></i> OpenTelemetry    | Beginner     |                                                 --                                                 |
 
 ## 🎓 Education
 
@@ -88,16 +89,6 @@ I have four years' experience in the IT market and one year's experience as an e
 - 2021 – 2022
 
 > My main activity was related to extracting and processing data on the private health sector in Brazil. To do this, I created ETL pipelines using R and Python to process large amounts of data and used exploratory data analysis to produce reports and dashboards for public use. I also managed databases using PostgreSQL and serverless databases such as DuckDB and Apache Arrow. I was also responsible for forecasting relevant indicators using time series econometric tools (mainly VAR-related models).
-
-## 🔎 Research
-
-### Scientific Initiation Program (PIC-UFABC)
-
-- CECS – UFABC
-- São Bernardo do Campo, SP
-- 2020–2021
-
-> I researched exports from the Midwest region of Brazil, as well as the commodity cycle of the 2000s and its relationship to the region's agro-industrial complex. I used data from Comex Stats and carried out analyzes using tools such as R and Google BigQuery. My research relied on exploratory data analysis and visualization to draw conclusions about the period analyzed.
 
 ## 🌐 Language Proficiency
 
