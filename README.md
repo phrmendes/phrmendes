@@ -1,5 +1,5 @@
 # Hello 👋
 
-- Interested in Python, statistics and machine learning
+- Interested in Python, Elixir, Lua, Kubernetes, statistics and machine learning
 - Currently obsessed with NixOS and Neovim
-- Working as Data Engineer
+- Working as DevOps engineer
